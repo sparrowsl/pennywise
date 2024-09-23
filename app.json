@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "pennywise",
+    "slug": "pennywise",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/savings.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/savings.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#C4DAD2"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/savings.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "sparrowsl.pennywise"
+    }
+  }
+}
